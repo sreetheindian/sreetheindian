@@ -27,7 +27,7 @@
 - Executed this Jmeter test plan from the docker as mentioned above and extracted the results thru .jtl file.
 - Results are as expected, 50% of them failed with forbidden errors, 50% of them passed with 200 responses.
 - Latency had good contribution from the connecton time, could be first buffering as we ran only 5 iterations.
-- Created a new github account, though I already have one. Didn't wanna use personal git :).
+- Created a new github account.
 - Here we go, the result file could have been made look better with the modified the Jmeter config properties to add customized metrics, but again sorry, its a busy month at work. we are working evenings and weekends as well.
 
 
